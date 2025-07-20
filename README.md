@@ -1,2 +1,2 @@
-# mutdog.github.io
+# Eric Mutschlechner
 Documenting my cybersecurity homelab journey!

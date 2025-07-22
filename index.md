@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[My LinkedIn Profile](https://www.linkedin.com/in/eric-muts){:target="_blank"}
+[My LinkedIn Profile](https://www.linkedin.com/in/eric-muts)
 
 ## My Projects
 

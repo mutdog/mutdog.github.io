@@ -2,9 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[Link to another page](./another-page.html).
+[My LinkedIn Profile](www.linkedin.com/in/eric-muts)
 
 There should be whitespace between paragraphs.
 

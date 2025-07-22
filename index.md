@@ -6,7 +6,7 @@ layout: default
 
 ## My Projects
 
-| head1        | head two          | three |
+| Project        | Description          | Status |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |

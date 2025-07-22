@@ -12,7 +12,7 @@ This repo details my hands-on labs demonstrating key networking and cybersecurit
 
 ## My Projects
 
-1. [Phase 1 - Lab Foundation](./projects/phase_1_lab_foundation/index.md)
+1. [Phase 1 - Lab Foundation](./phase_1_lab_foundation/index.md)
 2. 
 
 ## Planned Projects

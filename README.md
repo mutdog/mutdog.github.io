@@ -1,2 +1,2 @@
 # Eric Mutschlechner
-Documenting my cybersecurity homelab journey!
+Welcome to my cybersecurity homelab repo!

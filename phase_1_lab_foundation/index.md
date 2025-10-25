@@ -17,7 +17,9 @@ After some research, I chose the [Protectli V1211](https://protectli.com/product
 For the switch, I went with the [TrendNet TPE-3102WS](https://www.trendnet.com/products/2.5g-managed-poeplus-switch/10-port-multi-gig-web-smart-poeplus-switch-TPE-3102WS). This managed switch allows me to establish VLANs for segmentation, power devices such as access points, and provide both 2.5 and 10 GbE ports for fast internal networking.
 
 ### Installation & Setup
-asdf
+Since I ordered a barebones V1211, I needed to add the NVME boot drive. I installed a Crucial P3 Plus 500 GB M.2 drive. After updating the UEFI, I proceeded with pfSense install using a USB drive.
+
+Setting up the managed switch was fairly straightforward. 
 
 ---
 ## Lessons Learned:
